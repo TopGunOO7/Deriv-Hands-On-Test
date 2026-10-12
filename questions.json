@@ -1,0 +1,10 @@
+[
+  {"id": "q1", "question": "How many password reset emails can a user request per hour?", "expected_behavior": "answerable"},
+  {"id": "q2", "question": "What happens after five failed login attempts?", "expected_behavior": "answerable"},
+  {"id": "q3", "question": "What is the API request limit per minute?", "expected_behavior": "answerable"},
+  {"id": "q4", "question": "How long do standard withdrawals take after identity review?", "expected_behavior": "answerable"},
+  {"id": "q5", "question": "When should a critical incident be acknowledged?", "expected_behavior": "answerable"},
+  {"id": "q6", "question": "Can support manually bypass identity verification for VIP users?", "expected_behavior": "unanswerable"},
+  {"id": "q7", "question": "Which cryptocurrency network is used for withdrawals?", "expected_behavior": "unanswerable"},
+  {"id": "q8", "question": "What is the exact tax treatment of card deposits?", "expected_behavior": "unanswerable"}
+]
