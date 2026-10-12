@@ -1,0 +1,241 @@
+{"document_count": 5, "event": "documents_loaded", "timestamp": "2026-10-12T06:53:31.122610+00:00"}
+{"chunk_count": 5, "document_count": 5, "event": "chunks_created", "timestamp": "2026-10-12T06:53:31.123492+00:00"}
+{"event": "retrieval_executed", "question_id": "q1", "retrieved_count": 3, "timestamp": "2026-10-12T06:53:31.124700+00:00"}
+{"event": "prompt_constructed", "question_id": "q1", "timestamp": "2026-10-12T06:53:31.125020+00:00"}
+{"event": "answer_generated", "question_id": "q1", "supported": true, "timestamp": "2026-10-12T06:53:31.125449+00:00"}
+{"event": "validation_completed", "question_id": "q1", "timestamp": "2026-10-12T06:53:31.126068+00:00", "valid": true}
+{"event": "retrieval_executed", "question_id": "q2", "retrieved_count": 3, "timestamp": "2026-10-12T06:53:31.126585+00:00"}
+{"event": "prompt_constructed", "question_id": "q2", "timestamp": "2026-10-12T06:53:31.128138+00:00"}
+{"event": "answer_generated", "question_id": "q2", "supported": true, "timestamp": "2026-10-12T06:53:31.128629+00:00"}
+{"event": "validation_completed", "question_id": "q2", "timestamp": "2026-10-12T06:53:31.129077+00:00", "valid": true}
+{"event": "retrieval_executed", "question_id": "q3", "retrieved_count": 3, "timestamp": "2026-10-12T06:53:31.129646+00:00"}
+{"event": "prompt_constructed", "question_id": "q3", "timestamp": "2026-10-12T06:53:31.130539+00:00"}
+{"event": "answer_generated", "question_id": "q3", "supported": true, "timestamp": "2026-10-12T06:53:31.131036+00:00"}
+{"event": "validation_completed", "question_id": "q3", "timestamp": "2026-10-12T06:53:31.131421+00:00", "valid": true}
+{"event": "retrieval_executed", "question_id": "q4", "retrieved_count": 3, "timestamp": "2026-10-12T06:53:31.131821+00:00"}
+{"event": "prompt_constructed", "question_id": "q4", "timestamp": "2026-10-12T06:53:31.132433+00:00"}
+{"event": "answer_generated", "question_id": "q4", "supported": true, "timestamp": "2026-10-12T06:53:31.133159+00:00"}
+{"event": "validation_completed", "question_id": "q4", "timestamp": "2026-10-12T06:53:31.133519+00:00", "valid": true}
+{"event": "retrieval_executed", "question_id": "q5", "retrieved_count": 3, "timestamp": "2026-10-12T06:53:31.137554+00:00"}
+{"event": "prompt_constructed", "question_id": "q5", "timestamp": "2026-10-12T06:53:31.138333+00:00"}
+{"event": "answer_generated", "question_id": "q5", "supported": true, "timestamp": "2026-10-12T06:53:31.139363+00:00"}
+{"event": "validation_completed", "question_id": "q5", "timestamp": "2026-10-12T06:53:31.140312+00:00", "valid": true}
+{"event": "retrieval_executed", "question_id": "q6", "retrieved_count": 3, "timestamp": "2026-10-12T06:53:31.141008+00:00"}
+{"event": "prompt_constructed", "question_id": "q6", "timestamp": "2026-10-12T06:53:31.141313+00:00"}
+{"event": "answer_generated", "question_id": "q6", "supported": false, "timestamp": "2026-10-12T06:53:31.141668+00:00"}
+{"event": "validation_completed", "question_id": "q6", "timestamp": "2026-10-12T06:53:31.142288+00:00", "valid": true}
+{"event": "retrieval_executed", "question_id": "q7", "retrieved_count": 3, "timestamp": "2026-10-12T06:53:31.142947+00:00"}
+{"event": "prompt_constructed", "question_id": "q7", "timestamp": "2026-10-12T06:53:31.143441+00:00"}
+{"event": "answer_generated", "question_id": "q7", "supported": false, "timestamp": "2026-10-12T06:53:31.143880+00:00"}
+{"event": "validation_completed", "question_id": "q7", "timestamp": "2026-10-12T06:53:31.144122+00:00", "valid": true}
+{"event": "retrieval_executed", "question_id": "q8", "retrieved_count": 3, "timestamp": "2026-10-12T06:53:31.144897+00:00"}
+{"event": "prompt_constructed", "question_id": "q8", "timestamp": "2026-10-12T06:53:31.145392+00:00"}
+{"event": "answer_generated", "question_id": "q8", "supported": false, "timestamp": "2026-10-12T06:53:31.145675+00:00"}
+{"event": "validation_completed", "question_id": "q8", "timestamp": "2026-10-12T06:53:31.146065+00:00", "valid": true}
+{"document_count": 5, "event": "documents_loaded", "timestamp": "2026-10-12T06:53:31.148339+00:00"}
+{"chunk_count": 5, "document_count": 5, "event": "chunks_created", "timestamp": "2026-10-12T06:53:31.148673+00:00"}
+{"event": "retrieval_executed", "question_id": "q1", "retrieved_count": 3, "timestamp": "2026-10-12T06:53:31.149553+00:00"}
+{"event": "prompt_constructed", "question_id": "q1", "timestamp": "2026-10-12T06:53:31.149929+00:00"}
+{"event": "answer_generated", "question_id": "q1", "supported": true, "timestamp": "2026-10-12T06:53:31.151099+00:00"}
+{"event": "validation_completed", "question_id": "q1", "timestamp": "2026-10-12T06:53:31.153915+00:00", "valid": true}
+{"event": "retrieval_executed", "question_id": "q2", "retrieved_count": 3, "timestamp": "2026-10-12T06:53:31.155163+00:00"}
+{"event": "prompt_constructed", "question_id": "q2", "timestamp": "2026-10-12T06:53:31.155878+00:00"}
+{"event": "answer_generated", "question_id": "q2", "supported": true, "timestamp": "2026-10-12T06:53:31.156806+00:00"}
+{"event": "validation_completed", "question_id": "q2", "timestamp": "2026-10-12T06:53:31.157337+00:00", "valid": true}
+{"event": "retrieval_executed", "question_id": "q3", "retrieved_count": 3, "timestamp": "2026-10-12T06:53:31.157984+00:00"}
+{"event": "prompt_constructed", "question_id": "q3", "timestamp": "2026-10-12T06:53:31.158355+00:00"}
+{"event": "answer_generated", "question_id": "q3", "supported": true, "timestamp": "2026-10-12T06:53:31.159011+00:00"}
+{"event": "validation_completed", "question_id": "q3", "timestamp": "2026-10-12T06:53:31.159591+00:00", "valid": true}
+{"event": "retrieval_executed", "question_id": "q4", "retrieved_count": 3, "timestamp": "2026-10-12T06:53:31.160799+00:00"}
+{"event": "prompt_constructed", "question_id": "q4", "timestamp": "2026-10-12T06:53:31.161084+00:00"}
+{"event": "answer_generated", "question_id": "q4", "supported": true, "timestamp": "2026-10-12T06:53:31.161341+00:00"}
+{"event": "validation_completed", "question_id": "q4", "timestamp": "2026-10-12T06:53:31.161593+00:00", "valid": true}
+{"event": "retrieval_executed", "question_id": "q5", "retrieved_count": 3, "timestamp": "2026-10-12T06:53:31.162110+00:00"}
+{"event": "prompt_constructed", "question_id": "q5", "timestamp": "2026-10-12T06:53:31.162336+00:00"}
+{"event": "answer_generated", "question_id": "q5", "supported": true, "timestamp": "2026-10-12T06:53:31.163192+00:00"}
+{"event": "validation_completed", "question_id": "q5", "timestamp": "2026-10-12T06:53:31.163830+00:00", "valid": true}
+{"event": "retrieval_executed", "question_id": "q6", "retrieved_count": 3, "timestamp": "2026-10-12T06:53:31.164348+00:00"}
+{"event": "prompt_constructed", "question_id": "q6", "timestamp": "2026-10-12T06:53:31.164752+00:00"}
+{"event": "answer_generated", "question_id": "q6", "supported": false, "timestamp": "2026-10-12T06:53:31.165353+00:00"}
+{"event": "validation_completed", "question_id": "q6", "timestamp": "2026-10-12T06:53:31.166192+00:00", "valid": true}
+{"event": "retrieval_executed", "question_id": "q7", "retrieved_count": 3, "timestamp": "2026-10-12T06:53:31.166815+00:00"}
+{"event": "prompt_constructed", "question_id": "q7", "timestamp": "2026-10-12T06:53:31.167173+00:00"}
+{"event": "answer_generated", "question_id": "q7", "supported": false, "timestamp": "2026-10-12T06:53:31.169504+00:00"}
+{"event": "validation_completed", "question_id": "q7", "timestamp": "2026-10-12T06:53:31.170468+00:00", "valid": true}
+{"event": "retrieval_executed", "question_id": "q8", "retrieved_count": 3, "timestamp": "2026-10-12T06:53:31.170870+00:00"}
+{"event": "prompt_constructed", "question_id": "q8", "timestamp": "2026-10-12T06:53:31.171308+00:00"}
+{"event": "answer_generated", "question_id": "q8", "supported": false, "timestamp": "2026-10-12T06:53:31.171622+00:00"}
+{"event": "validation_completed", "question_id": "q8", "timestamp": "2026-10-12T06:53:31.171893+00:00", "valid": true}
+{"document_count": 5, "event": "documents_loaded", "timestamp": "2026-10-12T06:53:39.151713+00:00"}
+{"chunk_count": 5, "document_count": 5, "event": "chunks_created", "timestamp": "2026-10-12T06:53:39.152254+00:00"}
+{"event": "retrieval_executed", "question_id": "q1", "retrieved_count": 3, "timestamp": "2026-10-12T06:53:39.153013+00:00"}
+{"event": "prompt_constructed", "question_id": "q1", "timestamp": "2026-10-12T06:53:39.154194+00:00"}
+{"event": "answer_generated", "question_id": "q1", "supported": true, "timestamp": "2026-10-12T06:53:39.154789+00:00"}
+{"event": "validation_completed", "question_id": "q1", "timestamp": "2026-10-12T06:53:39.155890+00:00", "valid": true}
+{"event": "retrieval_executed", "question_id": "q2", "retrieved_count": 3, "timestamp": "2026-10-12T06:53:39.156510+00:00"}
+{"event": "prompt_constructed", "question_id": "q2", "timestamp": "2026-10-12T06:53:39.156836+00:00"}
+{"event": "answer_generated", "question_id": "q2", "supported": true, "timestamp": "2026-10-12T06:53:39.157216+00:00"}
+{"event": "validation_completed", "question_id": "q2", "timestamp": "2026-10-12T06:53:39.157462+00:00", "valid": true}
+{"event": "retrieval_executed", "question_id": "q3", "retrieved_count": 3, "timestamp": "2026-10-12T06:53:39.157867+00:00"}
+{"event": "prompt_constructed", "question_id": "q3", "timestamp": "2026-10-12T06:53:39.158118+00:00"}
+{"event": "answer_generated", "question_id": "q3", "supported": true, "timestamp": "2026-10-12T06:53:39.158339+00:00"}
+{"event": "validation_completed", "question_id": "q3", "timestamp": "2026-10-12T06:53:39.158556+00:00", "valid": true}
+{"event": "retrieval_executed", "question_id": "q4", "retrieved_count": 3, "timestamp": "2026-10-12T06:53:39.158975+00:00"}
+{"event": "prompt_constructed", "question_id": "q4", "timestamp": "2026-10-12T06:53:39.159457+00:00"}
+{"event": "answer_generated", "question_id": "q4", "supported": true, "timestamp": "2026-10-12T06:53:39.159780+00:00"}
+{"event": "validation_completed", "question_id": "q4", "timestamp": "2026-10-12T06:53:39.160101+00:00", "valid": true}
+{"event": "retrieval_executed", "question_id": "q5", "retrieved_count": 3, "timestamp": "2026-10-12T06:53:39.160585+00:00"}
+{"event": "prompt_constructed", "question_id": "q5", "timestamp": "2026-10-12T06:53:39.160976+00:00"}
+{"event": "answer_generated", "question_id": "q5", "supported": true, "timestamp": "2026-10-12T06:53:39.161210+00:00"}
+{"event": "validation_completed", "question_id": "q5", "timestamp": "2026-10-12T06:53:39.161566+00:00", "valid": true}
+{"event": "retrieval_executed", "question_id": "q6", "retrieved_count": 3, "timestamp": "2026-10-12T06:53:39.161924+00:00"}
+{"event": "prompt_constructed", "question_id": "q6", "timestamp": "2026-10-12T06:53:39.162223+00:00"}
+{"event": "answer_generated", "question_id": "q6", "supported": false, "timestamp": "2026-10-12T06:53:39.162553+00:00"}
+{"event": "validation_completed", "question_id": "q6", "timestamp": "2026-10-12T06:53:39.162788+00:00", "valid": true}
+{"event": "retrieval_executed", "question_id": "q7", "retrieved_count": 3, "timestamp": "2026-10-12T06:53:39.163248+00:00"}
+{"event": "prompt_constructed", "question_id": "q7", "timestamp": "2026-10-12T06:53:39.163571+00:00"}
+{"event": "answer_generated", "question_id": "q7", "supported": false, "timestamp": "2026-10-12T06:53:39.163859+00:00"}
+{"event": "validation_completed", "question_id": "q7", "timestamp": "2026-10-12T06:53:39.164172+00:00", "valid": true}
+{"event": "retrieval_executed", "question_id": "q8", "retrieved_count": 3, "timestamp": "2026-10-12T06:53:39.164586+00:00"}
+{"event": "prompt_constructed", "question_id": "q8", "timestamp": "2026-10-12T06:53:39.165059+00:00"}
+{"event": "answer_generated", "question_id": "q8", "supported": false, "timestamp": "2026-10-12T06:53:39.165309+00:00"}
+{"event": "validation_completed", "question_id": "q8", "timestamp": "2026-10-12T06:53:39.165606+00:00", "valid": true}
+{"document_count": 5, "event": "documents_loaded", "timestamp": "2026-10-12T06:53:39.169131+00:00"}
+{"chunk_count": 5, "document_count": 5, "event": "chunks_created", "timestamp": "2026-10-12T06:53:39.169514+00:00"}
+{"event": "retrieval_executed", "question_id": "q1", "retrieved_count": 3, "timestamp": "2026-10-12T06:53:39.171197+00:00"}
+{"event": "prompt_constructed", "question_id": "q1", "timestamp": "2026-10-12T06:53:39.171707+00:00"}
+{"event": "answer_generated", "question_id": "q1", "supported": true, "timestamp": "2026-10-12T06:53:39.172206+00:00"}
+{"event": "validation_completed", "question_id": "q1", "timestamp": "2026-10-12T06:53:39.172611+00:00", "valid": true}
+{"event": "retrieval_executed", "question_id": "q2", "retrieved_count": 3, "timestamp": "2026-10-12T06:53:39.173306+00:00"}
+{"event": "prompt_constructed", "question_id": "q2", "timestamp": "2026-10-12T06:53:39.173827+00:00"}
+{"event": "answer_generated", "question_id": "q2", "supported": true, "timestamp": "2026-10-12T06:53:39.174334+00:00"}
+{"event": "validation_completed", "question_id": "q2", "timestamp": "2026-10-12T06:53:39.174733+00:00", "valid": true}
+{"event": "retrieval_executed", "question_id": "q3", "retrieved_count": 3, "timestamp": "2026-10-12T06:53:39.175355+00:00"}
+{"event": "prompt_constructed", "question_id": "q3", "timestamp": "2026-10-12T06:53:39.175740+00:00"}
+{"event": "answer_generated", "question_id": "q3", "supported": true, "timestamp": "2026-10-12T06:53:39.176263+00:00"}
+{"event": "validation_completed", "question_id": "q3", "timestamp": "2026-10-12T06:53:39.176867+00:00", "valid": true}
+{"event": "retrieval_executed", "question_id": "q4", "retrieved_count": 3, "timestamp": "2026-10-12T06:53:39.177720+00:00"}
+{"event": "prompt_constructed", "question_id": "q4", "timestamp": "2026-10-12T06:53:39.178274+00:00"}
+{"event": "answer_generated", "question_id": "q4", "supported": true, "timestamp": "2026-10-12T06:53:39.178637+00:00"}
+{"event": "validation_completed", "question_id": "q4", "timestamp": "2026-10-12T06:53:39.178920+00:00", "valid": true}
+{"event": "retrieval_executed", "question_id": "q5", "retrieved_count": 3, "timestamp": "2026-10-12T06:53:39.179661+00:00"}
+{"event": "prompt_constructed", "question_id": "q5", "timestamp": "2026-10-12T06:53:39.179908+00:00"}
+{"event": "answer_generated", "question_id": "q5", "supported": true, "timestamp": "2026-10-12T06:53:39.180127+00:00"}
+{"event": "validation_completed", "question_id": "q5", "timestamp": "2026-10-12T06:53:39.180487+00:00", "valid": true}
+{"event": "retrieval_executed", "question_id": "q6", "retrieved_count": 3, "timestamp": "2026-10-12T06:53:39.181072+00:00"}
+{"event": "prompt_constructed", "question_id": "q6", "timestamp": "2026-10-12T06:53:39.181857+00:00"}
+{"event": "answer_generated", "question_id": "q6", "supported": false, "timestamp": "2026-10-12T06:53:39.182165+00:00"}
+{"event": "validation_completed", "question_id": "q6", "timestamp": "2026-10-12T06:53:39.182686+00:00", "valid": true}
+{"event": "retrieval_executed", "question_id": "q7", "retrieved_count": 3, "timestamp": "2026-10-12T06:53:39.183189+00:00"}
+{"event": "prompt_constructed", "question_id": "q7", "timestamp": "2026-10-12T06:53:39.183473+00:00"}
+{"event": "answer_generated", "question_id": "q7", "supported": false, "timestamp": "2026-10-12T06:53:39.184065+00:00"}
+{"event": "validation_completed", "question_id": "q7", "timestamp": "2026-10-12T06:53:39.187453+00:00", "valid": true}
+{"event": "retrieval_executed", "question_id": "q8", "retrieved_count": 3, "timestamp": "2026-10-12T06:53:39.188441+00:00"}
+{"event": "prompt_constructed", "question_id": "q8", "timestamp": "2026-10-12T06:53:39.190242+00:00"}
+{"event": "answer_generated", "question_id": "q8", "supported": false, "timestamp": "2026-10-12T06:53:39.190705+00:00"}
+{"event": "validation_completed", "question_id": "q8", "timestamp": "2026-10-12T06:53:39.191077+00:00", "valid": true}
+{"event": "artifacts_written", "files": ["retrieval_results.json", "answers.json", "validation_report.json"], "timestamp": "2026-10-12T06:53:39.193484+00:00"}
+{"document_count": 5, "event": "documents_loaded", "timestamp": "2026-10-12T06:53:39.450929+00:00"}
+{"chunk_count": 5, "document_count": 5, "event": "chunks_created", "timestamp": "2026-10-12T06:53:39.452658+00:00"}
+{"event": "retrieval_executed", "question_id": "q1", "retrieved_count": 3, "timestamp": "2026-10-12T06:53:39.454289+00:00"}
+{"event": "prompt_constructed", "question_id": "q1", "timestamp": "2026-10-12T06:53:39.454674+00:00"}
+{"event": "answer_generated", "question_id": "q1", "supported": true, "timestamp": "2026-10-12T06:53:39.455442+00:00"}
+{"event": "validation_completed", "question_id": "q1", "timestamp": "2026-10-12T06:53:39.455696+00:00", "valid": true}
+{"event": "retrieval_executed", "question_id": "q2", "retrieved_count": 3, "timestamp": "2026-10-12T06:53:39.456515+00:00"}
+{"event": "prompt_constructed", "question_id": "q2", "timestamp": "2026-10-12T06:53:39.457308+00:00"}
+{"event": "answer_generated", "question_id": "q2", "supported": true, "timestamp": "2026-10-12T06:53:39.457976+00:00"}
+{"event": "validation_completed", "question_id": "q2", "timestamp": "2026-10-12T06:53:39.459006+00:00", "valid": true}
+{"event": "retrieval_executed", "question_id": "q3", "retrieved_count": 3, "timestamp": "2026-10-12T06:53:39.460663+00:00"}
+{"event": "prompt_constructed", "question_id": "q3", "timestamp": "2026-10-12T06:53:39.461216+00:00"}
+{"event": "answer_generated", "question_id": "q3", "supported": true, "timestamp": "2026-10-12T06:53:39.461899+00:00"}
+{"event": "validation_completed", "question_id": "q3", "timestamp": "2026-10-12T06:53:39.462340+00:00", "valid": true}
+{"event": "retrieval_executed", "question_id": "q4", "retrieved_count": 3, "timestamp": "2026-10-12T06:53:39.463175+00:00"}
+{"event": "prompt_constructed", "question_id": "q4", "timestamp": "2026-10-12T06:53:39.463565+00:00"}
+{"event": "answer_generated", "question_id": "q4", "supported": true, "timestamp": "2026-10-12T06:53:39.463870+00:00"}
+{"event": "validation_completed", "question_id": "q4", "timestamp": "2026-10-12T06:53:39.464117+00:00", "valid": true}
+{"event": "retrieval_executed", "question_id": "q5", "retrieved_count": 3, "timestamp": "2026-10-12T06:53:39.465262+00:00"}
+{"event": "prompt_constructed", "question_id": "q5", "timestamp": "2026-10-12T06:53:39.465901+00:00"}
+{"event": "answer_generated", "question_id": "q5", "supported": true, "timestamp": "2026-10-12T06:53:39.466650+00:00"}
+{"event": "validation_completed", "question_id": "q5", "timestamp": "2026-10-12T06:53:39.467009+00:00", "valid": true}
+{"event": "retrieval_executed", "question_id": "q6", "retrieved_count": 3, "timestamp": "2026-10-12T06:53:39.469380+00:00"}
+{"event": "prompt_constructed", "question_id": "q6", "timestamp": "2026-10-12T06:53:39.469868+00:00"}
+{"event": "answer_generated", "question_id": "q6", "supported": false, "timestamp": "2026-10-12T06:53:39.470658+00:00"}
+{"event": "validation_completed", "question_id": "q6", "timestamp": "2026-10-12T06:53:39.471037+00:00", "valid": true}
+{"event": "retrieval_executed", "question_id": "q7", "retrieved_count": 3, "timestamp": "2026-10-12T06:53:39.471780+00:00"}
+{"event": "prompt_constructed", "question_id": "q7", "timestamp": "2026-10-12T06:53:39.472019+00:00"}
+{"event": "answer_generated", "question_id": "q7", "supported": false, "timestamp": "2026-10-12T06:53:39.472424+00:00"}
+{"event": "validation_completed", "question_id": "q7", "timestamp": "2026-10-12T06:53:39.473273+00:00", "valid": true}
+{"event": "retrieval_executed", "question_id": "q8", "retrieved_count": 3, "timestamp": "2026-10-12T06:53:39.475715+00:00"}
+{"event": "prompt_constructed", "question_id": "q8", "timestamp": "2026-10-12T06:53:39.476183+00:00"}
+{"event": "answer_generated", "question_id": "q8", "supported": false, "timestamp": "2026-10-12T06:53:39.476514+00:00"}
+{"event": "validation_completed", "question_id": "q8", "timestamp": "2026-10-12T06:53:39.476956+00:00", "valid": true}
+{"event": "artifacts_written", "files": ["retrieval_results.json", "answers.json", "validation_report.json"], "timestamp": "2026-10-12T06:53:39.479196+00:00"}
+{"document_count": 5, "event": "documents_loaded", "timestamp": "2026-10-12T06:53:50.371528+00:00"}
+{"chunk_count": 5, "document_count": 5, "event": "chunks_created", "timestamp": "2026-10-12T06:53:50.372295+00:00"}
+{"event": "retrieval_executed", "question_id": "q1", "retrieved_count": 3, "timestamp": "2026-10-12T06:53:50.373648+00:00"}
+{"event": "prompt_constructed", "question_id": "q1", "timestamp": "2026-10-12T06:53:50.374284+00:00"}
+{"event": "answer_generated", "question_id": "q1", "supported": true, "timestamp": "2026-10-12T06:53:50.375066+00:00"}
+{"event": "validation_completed", "question_id": "q1", "timestamp": "2026-10-12T06:53:50.375632+00:00", "valid": true}
+{"event": "retrieval_executed", "question_id": "q2", "retrieved_count": 3, "timestamp": "2026-10-12T06:53:50.376277+00:00"}
+{"event": "prompt_constructed", "question_id": "q2", "timestamp": "2026-10-12T06:53:50.376604+00:00"}
+{"event": "answer_generated", "question_id": "q2", "supported": true, "timestamp": "2026-10-12T06:53:50.376883+00:00"}
+{"event": "validation_completed", "question_id": "q2", "timestamp": "2026-10-12T06:53:50.377312+00:00", "valid": true}
+{"event": "retrieval_executed", "question_id": "q3", "retrieved_count": 3, "timestamp": "2026-10-12T06:53:50.381634+00:00"}
+{"event": "prompt_constructed", "question_id": "q3", "timestamp": "2026-10-12T06:53:50.382662+00:00"}
+{"event": "answer_generated", "question_id": "q3", "supported": true, "timestamp": "2026-10-12T06:53:50.383242+00:00"}
+{"event": "validation_completed", "question_id": "q3", "timestamp": "2026-10-12T06:53:50.383979+00:00", "valid": true}
+{"event": "retrieval_executed", "question_id": "q4", "retrieved_count": 3, "timestamp": "2026-10-12T06:53:50.384571+00:00"}
+{"event": "prompt_constructed", "question_id": "q4", "timestamp": "2026-10-12T06:53:50.384933+00:00"}
+{"event": "answer_generated", "question_id": "q4", "supported": true, "timestamp": "2026-10-12T06:53:50.385171+00:00"}
+{"event": "validation_completed", "question_id": "q4", "timestamp": "2026-10-12T06:53:50.385455+00:00", "valid": true}
+{"event": "retrieval_executed", "question_id": "q5", "retrieved_count": 3, "timestamp": "2026-10-12T06:53:50.385973+00:00"}
+{"event": "prompt_constructed", "question_id": "q5", "timestamp": "2026-10-12T06:53:50.386441+00:00"}
+{"event": "answer_generated", "question_id": "q5", "supported": true, "timestamp": "2026-10-12T06:53:50.387074+00:00"}
+{"event": "validation_completed", "question_id": "q5", "timestamp": "2026-10-12T06:53:50.387588+00:00", "valid": true}
+{"event": "retrieval_executed", "question_id": "q6", "retrieved_count": 3, "timestamp": "2026-10-12T06:53:50.388818+00:00"}
+{"event": "prompt_constructed", "question_id": "q6", "timestamp": "2026-10-12T06:53:50.390271+00:00"}
+{"event": "answer_generated", "question_id": "q6", "supported": false, "timestamp": "2026-10-12T06:53:50.390562+00:00"}
+{"event": "validation_completed", "question_id": "q6", "timestamp": "2026-10-12T06:53:50.390946+00:00", "valid": true}
+{"event": "retrieval_executed", "question_id": "q7", "retrieved_count": 3, "timestamp": "2026-10-12T06:53:50.391726+00:00"}
+{"event": "prompt_constructed", "question_id": "q7", "timestamp": "2026-10-12T06:53:50.392187+00:00"}
+{"event": "answer_generated", "question_id": "q7", "supported": false, "timestamp": "2026-10-12T06:53:50.392607+00:00"}
+{"event": "validation_completed", "question_id": "q7", "timestamp": "2026-10-12T06:53:50.393229+00:00", "valid": true}
+{"event": "retrieval_executed", "question_id": "q8", "retrieved_count": 3, "timestamp": "2026-10-12T06:53:50.393702+00:00"}
+{"event": "prompt_constructed", "question_id": "q8", "timestamp": "2026-10-12T06:53:50.394051+00:00"}
+{"event": "answer_generated", "question_id": "q8", "supported": false, "timestamp": "2026-10-12T06:53:50.394339+00:00"}
+{"event": "validation_completed", "question_id": "q8", "timestamp": "2026-10-12T06:53:50.394563+00:00", "valid": true}
+{"document_count": 5, "event": "documents_loaded", "timestamp": "2026-10-12T06:53:50.399676+00:00"}
+{"chunk_count": 5, "document_count": 5, "event": "chunks_created", "timestamp": "2026-10-12T06:53:50.400439+00:00"}
+{"event": "retrieval_executed", "question_id": "q1", "retrieved_count": 3, "timestamp": "2026-10-12T06:53:50.401596+00:00"}
+{"event": "prompt_constructed", "question_id": "q1", "timestamp": "2026-10-12T06:53:50.402320+00:00"}
+{"event": "answer_generated", "question_id": "q1", "supported": true, "timestamp": "2026-10-12T06:53:50.403227+00:00"}
+{"event": "validation_completed", "question_id": "q1", "timestamp": "2026-10-12T06:53:50.403626+00:00", "valid": true}
+{"event": "retrieval_executed", "question_id": "q2", "retrieved_count": 3, "timestamp": "2026-10-12T06:53:50.404152+00:00"}
+{"event": "prompt_constructed", "question_id": "q2", "timestamp": "2026-10-12T06:53:50.405253+00:00"}
+{"event": "answer_generated", "question_id": "q2", "supported": true, "timestamp": "2026-10-12T06:53:50.405764+00:00"}
+{"event": "validation_completed", "question_id": "q2", "timestamp": "2026-10-12T06:53:50.406148+00:00", "valid": true}
+{"event": "retrieval_executed", "question_id": "q3", "retrieved_count": 3, "timestamp": "2026-10-12T06:53:50.407041+00:00"}
+{"event": "prompt_constructed", "question_id": "q3", "timestamp": "2026-10-12T06:53:50.407310+00:00"}
+{"event": "answer_generated", "question_id": "q3", "supported": true, "timestamp": "2026-10-12T06:53:50.407725+00:00"}
+{"event": "validation_completed", "question_id": "q3", "timestamp": "2026-10-12T06:53:50.408053+00:00", "valid": true}
+{"event": "retrieval_executed", "question_id": "q4", "retrieved_count": 3, "timestamp": "2026-10-12T06:53:50.408523+00:00"}
+{"event": "prompt_constructed", "question_id": "q4", "timestamp": "2026-10-12T06:53:50.408852+00:00"}
+{"event": "answer_generated", "question_id": "q4", "supported": true, "timestamp": "2026-10-12T06:53:50.409213+00:00"}
+{"event": "validation_completed", "question_id": "q4", "timestamp": "2026-10-12T06:53:50.409722+00:00", "valid": true}
+{"event": "retrieval_executed", "question_id": "q5", "retrieved_count": 3, "timestamp": "2026-10-12T06:53:50.410910+00:00"}
+{"event": "prompt_constructed", "question_id": "q5", "timestamp": "2026-10-12T06:53:50.411598+00:00"}
+{"event": "answer_generated", "question_id": "q5", "supported": true, "timestamp": "2026-10-12T06:53:50.412279+00:00"}
+{"event": "validation_completed", "question_id": "q5", "timestamp": "2026-10-12T06:53:50.412976+00:00", "valid": true}
+{"event": "retrieval_executed", "question_id": "q6", "retrieved_count": 3, "timestamp": "2026-10-12T06:53:50.413423+00:00"}
+{"event": "prompt_constructed", "question_id": "q6", "timestamp": "2026-10-12T06:53:50.413718+00:00"}
+{"event": "answer_generated", "question_id": "q6", "supported": false, "timestamp": "2026-10-12T06:53:50.414379+00:00"}
+{"event": "validation_completed", "question_id": "q6", "timestamp": "2026-10-12T06:53:50.414982+00:00", "valid": true}
+{"event": "retrieval_executed", "question_id": "q7", "retrieved_count": 3, "timestamp": "2026-10-12T06:53:50.415488+00:00"}
+{"event": "prompt_constructed", "question_id": "q7", "timestamp": "2026-10-12T06:53:50.415862+00:00"}
+{"event": "answer_generated", "question_id": "q7", "supported": false, "timestamp": "2026-10-12T06:53:50.416236+00:00"}
+{"event": "validation_completed", "question_id": "q7", "timestamp": "2026-10-12T06:53:50.416939+00:00", "valid": true}
+{"event": "retrieval_executed", "question_id": "q8", "retrieved_count": 3, "timestamp": "2026-10-12T06:53:50.417665+00:00"}
+{"event": "prompt_constructed", "question_id": "q8", "timestamp": "2026-10-12T06:53:50.418337+00:00"}
+{"event": "answer_generated", "question_id": "q8", "supported": false, "timestamp": "2026-10-12T06:53:50.418846+00:00"}
+{"event": "validation_completed", "question_id": "q8", "timestamp": "2026-10-12T06:53:50.419329+00:00", "valid": true}
+{"event": "artifacts_written", "files": ["retrieval_results.json", "answers.json", "validation_report.json"], "timestamp": "2026-10-12T06:53:50.421281+00:00"}
