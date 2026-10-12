@@ -1,0 +1,60 @@
+[
+  {
+    "question_id": "q1",
+    "answer": "Users may request up to 3 password reset emails per rolling hour.",
+    "citations": [
+      "auth_policy.md"
+    ],
+    "supported": true
+  },
+  {
+    "question_id": "q2",
+    "answer": "After five failed login attempts within 15 minutes, the account is locked for 15 minutes.",
+    "citations": [
+      "auth_policy.md"
+    ],
+    "supported": true
+  },
+  {
+    "question_id": "q3",
+    "answer": "The public REST API allows 120 requests per minute per API key.",
+    "citations": [
+      "api_limits.md"
+    ],
+    "supported": true
+  },
+  {
+    "question_id": "q4",
+    "answer": "Standard withdrawals are processed within one business day after any required identity review.",
+    "citations": [
+      "payments.md"
+    ],
+    "supported": true
+  },
+  {
+    "question_id": "q5",
+    "answer": "Critical incidents are acknowledged within 30 minutes.",
+    "citations": [
+      "incidents.md"
+    ],
+    "supported": true
+  },
+  {
+    "question_id": "q6",
+    "answer": "I could not find enough information in the documentation to answer that.",
+    "citations": [],
+    "supported": false
+  },
+  {
+    "question_id": "q7",
+    "answer": "I could not find enough information in the documentation to answer that.",
+    "citations": [],
+    "supported": false
+  },
+  {
+    "question_id": "q8",
+    "answer": "I could not find enough information in the documentation to answer that.",
+    "citations": [],
+    "supported": false
+  }
+]

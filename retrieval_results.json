@@ -1,0 +1,186 @@
+[
+  {
+    "question_id": "q1",
+    "retrieved_chunks": [
+      {
+        "doc_id": "auth_policy.md",
+        "chunk_id": "auth_policy_1",
+        "score": 8.373258,
+        "text": "Users may request up to 3 password reset emails per rolling hour. A reset link expires after 30 minutes and can be used once. After five failed login attempts within 15 minutes, the account is locked for 15 minutes. Support should never ask a user for their password."
+      },
+      {
+        "doc_id": "incidents.md",
+        "chunk_id": "incidents_1",
+        "score": 1.392672,
+        "text": "Report suspected security incidents to the on-call channel and include the affected account, approximate time, and request ID. Critical incidents are acknowledged within 30 minutes. If there is no acknowledgement after 30 minutes, page the incident manager. Do not include passwords or full payment-card numbers in an incident report."
+      },
+      {
+        "doc_id": "api_limits.md",
+        "chunk_id": "api_limits_1",
+        "score": 0.875706,
+        "text": "The public REST API allows 120 requests per minute per API key. A request over the limit receives HTTP 429 and a Retry-After header. The limit is shared across endpoints for the same key. Customers needing higher limits should submit a capacity request."
+      }
+    ]
+  },
+  {
+    "question_id": "q2",
+    "retrieved_chunks": [
+      {
+        "doc_id": "auth_policy.md",
+        "chunk_id": "auth_policy_1",
+        "score": 5.465737,
+        "text": "Users may request up to 3 password reset emails per rolling hour. A reset link expires after 30 minutes and can be used once. After five failed login attempts within 15 minutes, the account is locked for 15 minutes. Support should never ask a user for their password."
+      },
+      {
+        "doc_id": "payments.md",
+        "chunk_id": "payments_1",
+        "score": 1.108628,
+        "text": "Card deposits are normally credited immediately, although a bank or card network may delay posting. Standard withdrawals are processed within one business day after any required identity review. The receiving bank can take an additional three to five business days. Weekend and public-holiday processing may begin on the next business day."
+      },
+      {
+        "doc_id": "api_limits.md",
+        "chunk_id": "api_limits_1",
+        "score": 0.306891,
+        "text": "The public REST API allows 120 requests per minute per API key. A request over the limit receives HTTP 429 and a Retry-After header. The limit is shared across endpoints for the same key. Customers needing higher limits should submit a capacity request."
+      }
+    ]
+  },
+  {
+    "question_id": "q3",
+    "retrieved_chunks": [
+      {
+        "doc_id": "api_limits.md",
+        "chunk_id": "api_limits_1",
+        "score": 5.694872,
+        "text": "The public REST API allows 120 requests per minute per API key. A request over the limit receives HTTP 429 and a Retry-After header. The limit is shared across endpoints for the same key. Customers needing higher limits should submit a capacity request."
+      },
+      {
+        "doc_id": "auth_policy.md",
+        "chunk_id": "auth_policy_1",
+        "score": 1.392616,
+        "text": "Users may request up to 3 password reset emails per rolling hour. A reset link expires after 30 minutes and can be used once. After five failed login attempts within 15 minutes, the account is locked for 15 minutes. Support should never ask a user for their password."
+      },
+      {
+        "doc_id": "incidents.md",
+        "chunk_id": "incidents_1",
+        "score": 1.263924,
+        "text": "Report suspected security incidents to the on-call channel and include the affected account, approximate time, and request ID. Critical incidents are acknowledged within 30 minutes. If there is no acknowledgement after 30 minutes, page the incident manager. Do not include passwords or full payment-card numbers in an incident report."
+      }
+    ]
+  },
+  {
+    "question_id": "q4",
+    "retrieved_chunks": [
+      {
+        "doc_id": "payments.md",
+        "chunk_id": "payments_1",
+        "score": 5.420114,
+        "text": "Card deposits are normally credited immediately, although a bank or card network may delay posting. Standard withdrawals are processed within one business day after any required identity review. The receiving bank can take an additional three to five business days. Weekend and public-holiday processing may begin on the next business day."
+      },
+      {
+        "doc_id": "kyc_policy.md",
+        "chunk_id": "kyc_policy_1",
+        "score": 2.943225,
+        "text": "Identity verification is required before the first withdrawal and for accounts that trigger a compliance review. Accepted documents are a current government photo ID and proof of address dated within 90 days. Reviews usually finish within two business days. Support cannot approve a document that is missing or expired."
+      },
+      {
+        "doc_id": "auth_policy.md",
+        "chunk_id": "auth_policy_1",
+        "score": 0.397395,
+        "text": "Users may request up to 3 password reset emails per rolling hour. A reset link expires after 30 minutes and can be used once. After five failed login attempts within 15 minutes, the account is locked for 15 minutes. Support should never ask a user for their password."
+      }
+    ]
+  },
+  {
+    "question_id": "q5",
+    "retrieved_chunks": [
+      {
+        "doc_id": "incidents.md",
+        "chunk_id": "incidents_1",
+        "score": 5.060478,
+        "text": "Report suspected security incidents to the on-call channel and include the affected account, approximate time, and request ID. Critical incidents are acknowledged within 30 minutes. If there is no acknowledgement after 30 minutes, page the incident manager. Do not include passwords or full payment-card numbers in an incident report."
+      },
+      {
+        "doc_id": "api_limits.md",
+        "chunk_id": "api_limits_1",
+        "score": 0.0,
+        "text": "The public REST API allows 120 requests per minute per API key. A request over the limit receives HTTP 429 and a Retry-After header. The limit is shared across endpoints for the same key. Customers needing higher limits should submit a capacity request."
+      },
+      {
+        "doc_id": "auth_policy.md",
+        "chunk_id": "auth_policy_1",
+        "score": 0.0,
+        "text": "Users may request up to 3 password reset emails per rolling hour. A reset link expires after 30 minutes and can be used once. After five failed login attempts within 15 minutes, the account is locked for 15 minutes. Support should never ask a user for their password."
+      }
+    ]
+  },
+  {
+    "question_id": "q6",
+    "retrieved_chunks": [
+      {
+        "doc_id": "kyc_policy.md",
+        "chunk_id": "kyc_policy_1",
+        "score": 3.123268,
+        "text": "Identity verification is required before the first withdrawal and for accounts that trigger a compliance review. Accepted documents are a current government photo ID and proof of address dated within 90 days. Reviews usually finish within two business days. Support cannot approve a document that is missing or expired."
+      },
+      {
+        "doc_id": "auth_policy.md",
+        "chunk_id": "auth_policy_1",
+        "score": 2.796364,
+        "text": "Users may request up to 3 password reset emails per rolling hour. A reset link expires after 30 minutes and can be used once. After five failed login attempts within 15 minutes, the account is locked for 15 minutes. Support should never ask a user for their password."
+      },
+      {
+        "doc_id": "payments.md",
+        "chunk_id": "payments_1",
+        "score": 0.834431,
+        "text": "Card deposits are normally credited immediately, although a bank or card network may delay posting. Standard withdrawals are processed within one business day after any required identity review. The receiving bank can take an additional three to five business days. Weekend and public-holiday processing may begin on the next business day."
+      }
+    ]
+  },
+  {
+    "question_id": "q7",
+    "retrieved_chunks": [
+      {
+        "doc_id": "payments.md",
+        "chunk_id": "payments_1",
+        "score": 2.155743,
+        "text": "Card deposits are normally credited immediately, although a bank or card network may delay posting. Standard withdrawals are processed within one business day after any required identity review. The receiving bank can take an additional three to five business days. Weekend and public-holiday processing may begin on the next business day."
+      },
+      {
+        "doc_id": "auth_policy.md",
+        "chunk_id": "auth_policy_1",
+        "score": 1.395654,
+        "text": "Users may request up to 3 password reset emails per rolling hour. A reset link expires after 30 minutes and can be used once. After five failed login attempts within 15 minutes, the account is locked for 15 minutes. Support should never ask a user for their password."
+      },
+      {
+        "doc_id": "kyc_policy.md",
+        "chunk_id": "kyc_policy_1",
+        "score": 0.871572,
+        "text": "Identity verification is required before the first withdrawal and for accounts that trigger a compliance review. Accepted documents are a current government photo ID and proof of address dated within 90 days. Reviews usually finish within two business days. Support cannot approve a document that is missing or expired."
+      }
+    ]
+  },
+  {
+    "question_id": "q8",
+    "retrieved_chunks": [
+      {
+        "doc_id": "payments.md",
+        "chunk_id": "payments_1",
+        "score": 2.485711,
+        "text": "Card deposits are normally credited immediately, although a bank or card network may delay posting. Standard withdrawals are processed within one business day after any required identity review. The receiving bank can take an additional three to five business days. Weekend and public-holiday processing may begin on the next business day."
+      },
+      {
+        "doc_id": "incidents.md",
+        "chunk_id": "incidents_1",
+        "score": 0.86198,
+        "text": "Report suspected security incidents to the on-call channel and include the affected account, approximate time, and request ID. Critical incidents are acknowledged within 30 minutes. If there is no acknowledgement after 30 minutes, page the incident manager. Do not include passwords or full payment-card numbers in an incident report."
+      },
+      {
+        "doc_id": "api_limits.md",
+        "chunk_id": "api_limits_1",
+        "score": 0.0,
+        "text": "The public REST API allows 120 requests per minute per API key. A request over the limit receives HTTP 429 and a Retry-After header. The limit is shared across endpoints for the same key. Customers needing higher limits should submit a capacity request."
+      }
+    ]
+  }
+]
